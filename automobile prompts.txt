@@ -1,0 +1,21 @@
+create a modern and simple automobile website called Nexara.
+app name Is top. Add a search button to search car types. home page display a car varieties and add a touch button to touch a car image to explore the car. display a car models and add first page is expensive attractive models. put a images and videos in a car. Add many attractive designs. Add attractive theme.
+should bring a contact line name email linked In. The website should have these pages: Home, About Us, Instructors, Contact, and Login/Sign Up. Keep the design clean, simple, professional, and easy to use. Use a white background with blue and burgundy colors, simple fonts, clear buttons, attractive car images, and a responsive design that works well on both mobile and desktop.
+ICEPOT.
+INSTRUCTIONS
+1. Help me to design the main page
+   based on the requirement help me to build a Home, Cars, Car Details, explore cars, About Us, Contact, and Login/Sign Up.
+   [STRICT] DO NOT HALLUCINATE
+   [MANDATORY] KEEP A RELEVANT BACKGROUND IMAGE AND NAVIGATION SHOULD BE SMOOTH
+2. Context
+   Detail about the company(nexara) -
+   you are going to design architecture to above webpage requirement.
+   car details like car brand(BMW,Audi,tesla),model name, model year, price, size capacity, features.
+3. persona
+   you act as a AI Architect to design the architecture of the webpage
+   with 10+ years of Experience in role
+4. Output
+   Webpage should be in Attractive design, proper alignment, Connect all the pages properly, Font should be visible,
+5. Tone
+   Professional
+Help me to design a architecture for automobile based on the above requirement [STRICT] ask me 20 relevant Questions to design my page [MANDATORY] each questions should have four options Among those four answers i will choose any one ( 1 question at a time) once i answer then proceed to next question. incase i don't know the answer i will ask you to explain or ask you to choose. after i choose the answer you can proceed to next question. if i do not understand the question ,i will skip the question.  only  going to design only the Frontend using html, Css. no backend.
